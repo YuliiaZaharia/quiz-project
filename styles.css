@@ -13,8 +13,8 @@ form {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 550px;
-    padding: 75px;
+    width: 600px;
+    padding: 65px;
     border-radius: 3px;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
@@ -47,4 +47,5 @@ button {
     border-radius: 3px;
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: bolder;
+    margin-top: 10px;
 }
