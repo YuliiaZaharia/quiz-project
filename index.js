@@ -1,6 +1,7 @@
 const button = document.querySelector("#btn"); 
 button.addEventListener("click", result); 
 
-function result() {
-    
+function result(e) {
+e.preventDefault();
+
 }
