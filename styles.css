@@ -4,6 +4,47 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Plus Jakarta Sans', sans-serif;
     background-color: #657fa7;
+}
+
+form {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 550px;
+    padding: 75px;
+    border-radius: 3px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+h1 {
+    display: flex;
+    align-self: center;
+}
+
+label {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+#question {
+    padding: 30px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+button {
+    background-color: #af58d4;
+    color: #fff; 
+    width: 100%;
+    border: none;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 3px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: bolder;
 }
