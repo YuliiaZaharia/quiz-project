@@ -22,6 +22,7 @@ form {
 h1 {
     display: flex;
     align-self: center;
+    font-size: 30px; 
 }
 
 label {
@@ -37,7 +38,7 @@ label {
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
-button {
+#btn {
     background-color: #af58d4;
     color: #fff; 
     width: 100%;
