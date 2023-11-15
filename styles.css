@@ -14,7 +14,7 @@ form {
     flex-direction: column;
     justify-content: center;
     width: 600px;
-    padding: 65px;
+    padding: 70px;
     border-radius: 3px;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
@@ -22,7 +22,7 @@ form {
 h1 {
     display: flex;
     align-self: center;
-    font-size: 30px; 
+    font-size: 25px; 
 }
 
 label {
@@ -48,5 +48,10 @@ label {
     border-radius: 3px;
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: bolder;
+    margin-top: 10px;
+}
+
+#showResult {
+    margin: auto;
     margin-top: 10px;
 }
